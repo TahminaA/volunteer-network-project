@@ -1,0 +1,23 @@
+.header{
+  margin-top: 20px;
+}
+.header .logo{
+  height: 50px;
+  
+ }
+ 
+
+.nav li{
+  display: inline;
+  margin-left: 50px;
+  color:rgb(24, 23, 23);
+ 
+  
+}
+
+.nav a{
+  
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}

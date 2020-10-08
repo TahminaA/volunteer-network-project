@@ -1,0 +1,41 @@
+.header{
+    height: 100%;
+    background-position: center center;
+    background-size: 100% 100%;
+}
+.header .logo{
+    height: 50px;
+    margin-right: 100px;
+    
+    
+}
+.header-text{
+    margin-top: 30px;
+    text-align: center;
+    color:white;
+    
+}
+
+
+.nav{
+    margin-right: 200px;
+}
+.nav li{
+    display: inline;
+    margin-left: 50px;
+    color:black;
+    
+  }
+  
+  .nav a{
+    
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.877);
+    font-weight: bold;
+  }
+  .activity-task{
+      padding:20px;
+     
+}
+
+ 
